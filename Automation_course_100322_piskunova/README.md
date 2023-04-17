@@ -8,4 +8,9 @@ Create a project
 6) Add to the gitignor file: .idea/, *.iml, target/
 7) Write the first line of code :)
 8) Run git status command to see current changes
+9) Run git add . command
+10) Run git commit -m 'My firs commit' command
+11) Run git push origin HEAD command
+
+
 

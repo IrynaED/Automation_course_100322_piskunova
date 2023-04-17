@@ -1,1 +1,0 @@
-# Automation_course_100322_piskunova
