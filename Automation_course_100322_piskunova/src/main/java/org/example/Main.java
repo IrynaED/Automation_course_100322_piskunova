@@ -2,7 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("For my first commit!");
+        System.out.println("Add new branch - dev!");
     }
-
 }
