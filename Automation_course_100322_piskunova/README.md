@@ -11,6 +11,3 @@ Create a project
 9) Run git add . command
 10) Run git commit -m 'My firs commit' command
 11) Run git push origin HEAD command
-
-
-
